@@ -22,7 +22,7 @@ Uses Stable Diffusion, [HuggingFace](https://huggingface.co/) Diffusers and [Jup
 - Available Stable Diffusion Models:
   - [Stable Diffusion 1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
   - [Stable Diffusion 2.1 Base](https://huggingface.co/stabilityai/stable-diffusion-2-1-base)
-  - [Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1))
+  - [Stable Diffusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)
   - [Stable Diffusion 3.5]([https://huggingface.co/collections/stabilityai/stable-diffusion-35-671785cca799084f71fa2838])
   - [OpenJourney v4](https://huggingface.co/prompthero/openjourney-v4)
   - [Dreamlike Photoreal 2.0](https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0)
